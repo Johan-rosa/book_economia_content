@@ -1,5 +1,6 @@
 project:
   type: book
+  output-dir: docs
 
 book:
   title: "Introducción a la Economía"
@@ -7,7 +8,9 @@ book:
   date: "3/6/2026"
   chapters:
     - index.qmd
-    - cap1.qmd
+    - part: "Fundamentos"
+      chapters:
+        - cap1.qmd
 
 bibliography: references.bib
 
