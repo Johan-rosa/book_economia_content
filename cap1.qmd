@@ -70,9 +70,30 @@ La economía es una ciencia social cuyo campo de estudio ha evolucionado a lo la
 
 A continuación, se presentan varias definiciones de economía formuladas por algunos de los economistas más influyentes. En conjunto, estas definiciones muestran que la economía no es un campo de estudio estático y limitado, sino una disciplina dinámica, que incorpora nuevas herramientas y amplia su radio de acción y su enfoque.
 
-::: callout-caution
-Aquí van aforismo de economistas clásicos. llevarán fotos de cada uno
+::: {.column-page layout-ncol=2}
+
+::: {}
+![](assets/adam-smith.png)
 :::
+::: {}
+![](assets/alfred-marshal.png)
+:::
+::: {}
+![](assets/lionel-robbins.png)
+:::
+::: {}
+![](assets/gary-becker.png)
+:::
+::: {}
+![](assets/paul-samuelson.png)
+:::
+::: {}
+![](assets/joseph-stiglitz.png)
+:::
+
+
+:::
+
 
 ::: {.callout-note appearance="simple"}
 ## ¿Es la economía una ciencia?
