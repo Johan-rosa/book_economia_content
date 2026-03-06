@@ -1,0 +1,29 @@
+# Prefacio {.unnumbered}
+
+La economía está presente en cada decisión cotidiana: cuando una familia organiza su presupuesto mensual, cuando una empresa decide invertir, cuando el gobierno diseña una política pública o cuando un país negocia su inserción en el comercio internacional. Sin embargo, a pesar de su presencia constante en la vida social, la economía suele percibirse como un campo técnico, distante y complejo.
+
+Este libro nace con un objetivo sencillo: presentar los principios fundamentales de la economía de forma clara, rigurosa y accesible, utilizando como referencia constante la realidad de la República Dominicana.
+
+Durante las últimas décadas, la economía dominicana ha experimentado transformaciones profundas. El país ha transitado desde una economía fuertemente dependiente de la agricultura hacia una estructura más diversificada basada en servicios, turismo, zonas francas, comercio y construcción. Al mismo tiempo, enfrenta retos estructurales importantes: desigualdad, informalidad laboral, sostenibilidad fiscal, vulnerabilidad climática y la necesidad de elevar la productividad.
+
+Comprender estos procesos requiere más que la simple observación de datos o indicadores. Requiere un marco conceptual que permita interpretar cómo funcionan los mercados, cómo toman decisiones los individuos y las empresas, y cómo interactúan las políticas públicas con el comportamiento económico.
+
+Ese marco conceptual es lo que proporciona la teoría económica.
+
+Este libro introduce al lector a los principios fundamentales de la economía —escasez, incentivos, mercados, competencia, crecimiento, inflación, comercio internacional y política económica— utilizando ejemplos, instituciones y experiencias propias del contexto dominicano siempre que sea posible. La intención no es únicamente explicar conceptos abstractos, sino mostrar cómo esas ideas ayudan a entender fenómenos reales: desde el funcionamiento del mercado laboral hasta la política monetaria del Banco Central, desde la dinámica del turismo hasta los efectos del comercio internacional.
+
+La obra está organizada en tres grandes secciones.
+
+La primera sección presenta los fundamentos del pensamiento económico: qué estudia la economía, cómo se construyen los modelos y cuáles son los principios básicos que permiten analizar decisiones bajo condiciones de escasez.
+
+La segunda sección se centra en la microeconomía, es decir, en el comportamiento de los agentes individuales: consumidores, empresas y mercados. Se examinan los mecanismos de oferta y demanda, la formación de precios, las decisiones de consumo y producción, las diferentes estructuras de mercado y las situaciones en las que los mercados pueden fallar.
+
+La tercera sección aborda la macroeconomía, el estudio de la economía en su conjunto. Allí se analizan temas como el producto interno bruto, la inflación, el desempleo, el sistema financiero, el crecimiento económico, los ciclos económicos, el comercio internacional y el papel de las políticas fiscal y monetaria.
+
+A lo largo del texto se busca mantener un equilibrio entre intuición económica, herramientas analíticas y aplicaciones empíricas. El objetivo no es únicamente que el lector memorice conceptos, sino que desarrolle una forma de pensar: el razonamiento económico.
+
+Pensar como economista implica formular preguntas, identificar incentivos, reconocer restricciones y analizar cómo las decisiones individuales interactúan dentro de sistemas más amplios. Esta forma de análisis resulta útil no solo para quienes estudian economía, sino también para estudiantes de administración, finanzas, políticas públicas, derecho y ciencias sociales en general.
+
+Finalmente, este libro parte de una convicción fundamental: comprender la economía es una herramienta esencial para participar de manera informada en el debate público. Las decisiones económicas —sobre impuestos, gasto público, regulación, comercio o política monetaria— afectan directamente el bienestar de la sociedad. Una ciudadanía con mayor comprensión económica puede contribuir a discusiones públicas más rigurosas y a decisiones colectivas mejor fundamentadas.
+
+Si este libro logra que el lector observe la realidad económica dominicana con mayor curiosidad, espíritu crítico y capacidad analítica, entonces habrá cumplido su propósito.

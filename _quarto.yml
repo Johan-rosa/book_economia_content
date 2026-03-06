@@ -1,0 +1,20 @@
+project:
+  type: book
+
+book:
+  title: "Introducción a la Economía"
+  author: "Frank Fuentes, Julio Andujar y Oscar Pascual"
+  date: "3/6/2026"
+  chapters:
+    - index.qmd
+    - cap1.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+  pdf:
+    documentclass: scrreprt
