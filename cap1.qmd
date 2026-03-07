@@ -70,7 +70,7 @@ La economía es una ciencia social cuyo campo de estudio ha evolucionado a lo la
 
 A continuación, se presentan varias definiciones de economía formuladas por algunos de los economistas más influyentes. En conjunto, estas definiciones muestran que la economía no es un campo de estudio estático y limitado, sino una disciplina dinámica, que incorpora nuevas herramientas y amplia su radio de acción y su enfoque.
 
-::: {.column-page layout-ncol=2}
+::: {.aforismos .column-page layout-ncol=2}
 
 ::: {}
 ![](assets/adam-smith.png)
@@ -151,9 +151,7 @@ La FPP representa la necesidad de elegir entre los 2 bienes. Producir más de un
 
 Así, pasar de la combinación A a la combinación C nos permite producir 20kg de peces más, pero tendremos que renunciar a 15kg de vegetales. El coste de oportunidad de 20kg de peces es renunciar a 15kg de vegetales en ese punto de la frontera. De la misma manera, pasar de la combinación E a la combinación D nos permite producir 30kg de vegetales más, pero tenemos que renunciar a 10kg de peces. [El coste de oportunidad de 30kg de peces es renunciar a 10 de vegetales en ese punto de la frontera]{.underline}.
 
-::: callout-caution
-Aquí va una visualización de la frontera de producción
-:::
+![Frontera de posibilidades de producción](assets/cap1-fpp-platano-cafe.png)
 
 La frontera de posibilidades también nos permite entender el concepto de eficiencia que hemos visto en este tema. A un país le ocurre lo mismo lo que a mi alumna María, tiene una serie de recursos como trabajadores, máquinas y recursos naturales, y puede emplearlos de manera más o menos eficiente.
 
@@ -165,11 +163,9 @@ De esta manera la FPP nos permite separar dos regiones.
 
 - [Puntos ineficientes.]{.underline} Aquellos puntos que se encuentran por debajo de la curva, representan combinaciones ineficientes pues se están despilfarrando recursos (como cuando María memorizaba y perdía dos horas de estudio). Es decir, o bien no estamos usando recursos o bien los usamos de manera incorrecta (como María cuando elegía una mala técnica de estudio). Si en nuestra aldea se pescaran 20 peces y se recolectaran 20 vegetales (combinación F) se estaría siendo ineficiente, ya que si usamos todos los recursos que tenemos podríamos pescar 20 peces y recolectar 45 vegetales (combinación C). La combinación 20 peces y 20 vegetales es por tanto ineficiente y se representa en el punto F por debajo de la curva.
 
-- [Puntos inalcanzables.]{.unerline} Aquellos puntos que se encuentra por encima de la curva son posiciones inalcanzables con los factores productivos y la tecnología disponible en ese momento dado. En nuestra aldea no podemos pescar 30 peces y recolectar 40 vegetales (punto G). Esa combinación es inalcanzable con los recursos y tecnología que tenemos. Sin embargo, con el paso del tiempo, las posiciones inalcanzables se pueden llegar a alcanzar si suceden una serie de circunstancias. Es lo que llamamos crecimiento económico.
+- [Puntos inalcanzables.]{.underline} Aquellos puntos que se encuentra por encima de la curva son posiciones inalcanzables con los factores productivos y la tecnología disponible en ese momento dado. En nuestra aldea no podemos pescar 30 peces y recolectar 40 vegetales (punto G). Esa combinación es inalcanzable con los recursos y tecnología que tenemos. Sin embargo, con el paso del tiempo, las posiciones inalcanzables se pueden llegar a alcanzar si suceden una serie de circunstancias. Es lo que llamamos crecimiento económico.
 
-::: callout-caution
-Aquí va una visualización de la frontera de producción con puntos ineficientes e inalcanzables.
-:::
+![](assets/cap1-fpp-categorias.png)
 
 ### La persona racional piensa en términos marginales
 
@@ -191,7 +187,7 @@ La falacia del costo hundido es un error común que se comente cuando se sigue i
 
 Un ejemplo de esta situación es el caso del Hotel “El Prado” en el Malecón de Santo Domingo, paralizado en los años noventa por un problema de caverna subterránea que requirió costosas inyecciones de hormigón, llevando a la quiebra del banco promotor. El proyecto, ubicado a pocos metros de la esquina de las avenidas 30 de mayo y Máximo Gómez, buscaba construir un hotel de 5 estrellas con 20 niveles y restaurante giratorio.
 
-![](assets/cap1-edificios-gomez.png)
+![Puntos](assets/cap1-edificios-gomez.png){.rounded}
 
 El alto costo de esta reparación necesaria para terminar el proyecto fue el factor clave para su abandono definitivo. Este caso ilustra perfectamente como un problema técnico (la caverna) se transformó en un desastre financiero y legal, dejando un gran costo hundido. En este caso, la decisión de abandonar el proyecto se tomó demasiado tarde, dejando hoy una enorme estructura abandonada en medio del malecón de Santo Domingo.
 
@@ -284,7 +280,7 @@ En conjunto, el enfoque positivo aporta pruebas y comprensión, mientras que el 
 
 8. Usted está planeando pasar el sábado trabajando en un empleo de medio tiempo, pero un amigo lo invita a esquiar. ¿Cuál es el verdadero costo de ir a esquiar? Ahora suponga que usted había planeado pasar el día estudiando en la biblioteca. En este caso ¿cuál es el costo de ir a esquiar? Explique.
 
-9. Usted gana $100 apostando a un equipo de basquetbol. Ahora debe decidir entre gastar ese dinero o depositarlo en el banco por un año y ganar 5% de interés. ¿Cuál es el costo de oportunidad de gastar los $100 ahora?
+9. Usted gana \$100 apostando a un equipo de basquetbol. Ahora debe decidir entre gastar ese dinero o depositarlo en el banco por un año y ganar 5% de interés. ¿Cuál es el costo de oportunidad de gastar los $100 ahora?
 
-10. La empresa que usted dirige invierte $5 millones para desarrollar un nuevo producto, pero su desarrollo no está totalmente terminado. En una junta el personal de ventas le informó que el lanzamiento de productos parecidos de los competidores probablemente reducirá las ventas del nuevo producto a $3 millones. Si cuesta un millón completar el desarrollo del producto y fabricarlo, ¿se debería seguir adelante con el proyecto? ¿Cuánto es lo más que se debe pagar para completarlo?
+10. La empresa que usted dirige invierte \$5 millones para desarrollar un nuevo producto, pero su desarrollo no está totalmente terminado. En una junta el personal de ventas le informó que el lanzamiento de productos parecidos de los competidores probablemente reducirá las ventas del nuevo producto a $3 millones. Si cuesta un millón completar el desarrollo del producto y fabricarlo, ¿se debería seguir adelante con el proyecto? ¿Cuánto es lo más que se debe pagar para completarlo?
 
