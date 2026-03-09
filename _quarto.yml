@@ -11,6 +11,11 @@ book:
     - part: "Fundamentos"
       chapters:
         - cap1.qmd
+        - cap2.qmd
+        - cap3.qmd
+    - part: "Microeconomía"
+      chapters:
+        - cap4.qmd
 
 bibliography: references.bib
 
