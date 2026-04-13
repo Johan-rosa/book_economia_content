@@ -6,6 +6,8 @@ book:
   title: "Introducción a la Economía"
   author: "Frank Fuentes, Julio Andujar y Oscar Pascual"
   date: "3/6/2026"
+  navbar:
+    logo: https://empirica.do/wp-content/media/2017/03/logo.png
   chapters:
     - index.qmd
     - part: "Fundamentos"
@@ -21,7 +23,7 @@ bibliography: references.bib
 
 format:
   html:
-    css: style.css
+    css: styles.css
     theme:
       - cosmo
       - brand
