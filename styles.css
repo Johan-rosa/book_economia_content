@@ -18,6 +18,9 @@ img.navbar-logo {
     max-height: 50px !important;
 }
 
+.brand-text-wrapper {
+  margin-left: 20px;
+}
 
 #quarto-sidebar,
 #quarto-margin-sidebar {
